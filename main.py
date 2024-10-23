@@ -1,3 +1,5 @@
+!pip install google-play-scraper requests nltk
+!pip install gradio
 import pandas as pd
 import re
 import io
